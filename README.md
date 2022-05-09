@@ -22,6 +22,7 @@ Computers were once thought of as “dumb terminals,” and human interactions w
 
 
 ### [Project Report](https://github.com/MumukshTayal/Statistical-Language-Modeling-N-grams/blob/main/Report.pdf)
+### [Code](https://github.com/MumukshTayal/Statistical-Language-Modeling-N-grams/blob/main/Project_Code.ipynb)
 
 ## License
 
