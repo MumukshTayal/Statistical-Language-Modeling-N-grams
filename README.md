@@ -21,8 +21,7 @@ Computers were once thought of as “dumb terminals,” and human interactions w
 [Link to the Interface](https://huggingface.co/spaces/Shruhrid/Next_Word_Prediction)
 
 
-### [Project Report]()
-### [Code]()
+### [Project Report](https://github.com/MumukshTayal/Statistical-Language-Modeling-N-grams/blob/main/Report.pdf)
 
 ## License
 
