@@ -15,7 +15,8 @@ Computers were once thought of as “dumb terminals,” and human interactions w
 
 ## Interface
 
-![image](https://user-images.githubusercontent.com/72244706/167398063-9f59b25c-f3de-4f77-8eae-647943214ab8.png)
+![image](https://user-images.githubusercontent.com/72244706/167398395-d8776822-691b-494d-81e2-d5feee4c33fc.png)
+
 
 [Link to the Interface](https://huggingface.co/spaces/Shruhrid/Next_Word_Prediction)
 
